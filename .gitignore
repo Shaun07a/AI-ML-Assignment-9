@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset
+PetImages/
+
+# Environment Variables
+.env
+
+# Generated Files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db

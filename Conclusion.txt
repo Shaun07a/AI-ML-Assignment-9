@@ -1,0 +1,10 @@
+This project demonstrates the use of Convolutional Neural Networks (CNNs) for classifying images of cats 
+and dogs. The dataset was preprocessed by resizing images to 128 × 128 pixels, normalizing pixel values, 
+and splitting the data into training and testing sets using TensorFlow data generators. The CNN 
+architecture consisting of convolutional layers, pooling layers, a dense layer, and a sigmoid output layer 
+successfully learned important visual features from the images. The evaluation metrics and confusion 
+matrix indicate that the model achieved good classification performance. Convolution layers 
+automatically extract meaningful image features, while pooling layers reduce spatial dimensions and 
+computational complexity. Compared to traditional Artificial Neural Networks, CNNs are more effective 
+for image classification because they preserve spatial information and automatically learn visual patterns. 
+A limitation of CNNs is that they require large datasets and considerable computational resources for training.

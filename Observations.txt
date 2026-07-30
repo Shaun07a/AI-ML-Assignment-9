@@ -1,0 +1,15 @@
+Observation 1
+
+The CNN model successfully learned meaningful features from the input images and achieved good classification performance for distinguishing between cats and dogs.
+
+Observation 2
+
+The Accuracy vs Epoch graph shows that both training and validation accuracy improved over successive epochs, indicating effective learning during the training process.
+
+Observation 3
+
+The Loss vs Epoch graph demonstrates a decreasing loss value, showing that the model gradually minimized prediction errors as training progressed.
+
+Observation 4
+
+The confusion matrix indicates that most images were classified correctly, with only a few misclassifications occurring due to similarities between certain cat and dog images.
